@@ -1,0 +1,24 @@
+.detail-product{
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: center;
+      
+}
+
+.pro-image{
+    width: 100%;
+    max-width: 400px;
+    box-shadow: 5px 5px 5px 5px #C1C6D1;
+}
+
+.status{
+    color: black;
+}
+
+.status-code{
+    color: blue;
+}
+
+.cart{
+    width: 13rem;
+}
